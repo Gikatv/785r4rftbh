@@ -1,0 +1,7 @@
+pyTelegramBotAPI==4.33.0
+yt-dlp
+fastapi
+uvicorn[standard]
+jinja2
+python-multipart
+requests
